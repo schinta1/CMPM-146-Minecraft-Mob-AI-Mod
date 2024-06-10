@@ -20,3 +20,9 @@ Dependencies:
 
 - Fabric API
 
+
+Instructions:
+
+Add the `.jar` file to the `mods` folder in your `.minecraft` folder. Also add the Fabric API (https://modrinth.com/mod/fabric-api) to the folder.
+
+If you don't have a mods folder, create one.

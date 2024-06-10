@@ -13,8 +13,10 @@ This mod changes the behavior of mobs based on specific conditions that are spec
 
 Mod info:
 
-Fabric
+- Fabric
+- Minecraft ver 1.20.1
 
-Minecraft ver 1.20.1
+Dependencies:
 
+- Fabric API
 

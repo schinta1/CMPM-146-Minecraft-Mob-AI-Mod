@@ -19,6 +19,7 @@ Mod info:
 Dependencies:
 
 - Fabric API
+- Modrinth
 
 
 Instructions:

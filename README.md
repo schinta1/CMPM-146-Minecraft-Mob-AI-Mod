@@ -23,6 +23,4 @@ Dependencies:
 
 Instructions:
 
-Add the `.jar` file to the `mods` folder in your `.minecraft` folder. Also add the Fabric API (https://modrinth.com/mod/fabric-api) to the folder.
-
-If you don't have a mods folder, create one.
+Download the Modrinth App and create a new profile with the "Fabric" and "1.20.1" options selected. Then, Add the `.jar` in the GitHub folder to the profile. Also add the Fabric API (https://modrinth.com/mod/fabric-api) to the folder. Click "Play" and enjoy!
